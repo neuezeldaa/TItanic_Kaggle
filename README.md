@@ -10,7 +10,7 @@ My first Kaggle project. This repository contains my solution to the [Titanic co
 ### Key Highlights  
 - **Data Exploration:** Cleaned and preprocessed data (handled missing values).  
 - **Modeling:** Trained classifiers like Logistic Regression, Random Forest, and XGBoost.  
-- **Results:** Achieved an accuracy of 82%+ on the leaderboard.  
+- **Results:** Achieved an accuracy of 77.99%+ on the leaderboard.  
 - **Tools Used:** Python (Pandas, Scikit-learn, Matplotlib/Seaborn).  
 
 ---

@@ -13,6 +13,8 @@ My first Kaggle project. This repository contains my solution to the [Titanic co
 - **Results:** Achieved an accuracy of 77.99%+ on the leaderboard.  
 - **Tools Used:** Python (Pandas, Scikit-learn, Matplotlib/Seaborn).  
 
+
+<a href="https://github.com/neuezeldaa/TItanic_Kaggle/blob/main/Titanic_Kaggle_Zolotov.ipynb">**Go to solution**</a>
 ---
 
 ## Русский  
@@ -26,4 +28,6 @@ My first Kaggle project. This repository contains my solution to the [Titanic co
 - **Результат:** Достигнута точность 77.99%+ лидерборде.  
 - **Используемые инструменты:** Python (Pandas, Scikit-learn, Matplotlib/Seaborn).
 
-  
+<a href="https://github.com/neuezeldaa/TItanic_Kaggle/blob/main/Titanic_Kaggle_Zolotov.ipynb">**Перейти к решению**</a>
+
+---

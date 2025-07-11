@@ -1,3 +1,5 @@
+ПЕРЕДЕЛАТЬ README.MD
+
 # Titanic - Machine Learning from Disaster  
 My first Kaggle project. This repository contains my solution to the [Titanic competition](https://www.kaggle.com/c/titanic) on Kaggle.  
 

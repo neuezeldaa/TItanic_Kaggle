@@ -1,7 +1,7 @@
 README.md еще будет переделываться. Проект не закончен до конца
 
 # Titanic - Machine Learning from Disaster  
-My first Kaggle project. This repository contains my solution to the [Titanic competition](https://www.kaggle.com/c/titanic) on Kaggle.  
+This repository contains my solution to the [Titanic competition](https://www.kaggle.com/c/titanic) on Kaggle.  
 
 ---
 
@@ -20,7 +20,7 @@ My first Kaggle project. This repository contains my solution to the [Titanic co
 ---
 
 ## Русский  
-> Этот репозиторий содержит моё решение задачи **Titanic - Machine Learning from Disaster** на платформе Kaggle — мой первый проект на Kaggle!   
+> Этот репозиторий содержит решение задачи **Titanic - Machine Learning from Disaster** с платформы Kaggle. 
 >  
 > **Цель:** Предсказать, выжил ли пассажир в результате крушения Титаника, на основе признаков: возраст, пол, класс билета и другие.  
 
